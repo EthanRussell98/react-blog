@@ -22,4 +22,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### Resources
 
-This project was created with the following [react tutorial](https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
+This project was created with the following [react tutorial](https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d).
